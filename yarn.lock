@@ -6181,6 +6181,11 @@ p-locate@^3.0.0:
   dependencies:
     p-limit "^2.0.0"
 
+p-throttle@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/p-throttle/-/p-throttle-2.0.0.tgz#6c37a705ddade51a9ed55c24cdfd0ed9eb5095f6"
+  integrity sha512-SKgpLwTm7VjKy8EoGZba3zqKAvVlBA8IiR+FLa5FkS/snoclGA4hH02fq+m+hwjUdZAed/PI7JVJImzb2P7U5A==
+
 p-try@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/p-try/-/p-try-1.0.0.tgz#cbc79cdbaf8fd4228e13f621f2b1a237c1b207b3"
